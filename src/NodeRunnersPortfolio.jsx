@@ -26,7 +26,7 @@ const MEMBERS = [
     interest: "AI/ML · Data Analysis",
     learn: ["Prompt Engineering & RAG Systems", "Pandas · Polars · Plotly", "Model Evaluation & Benchmarking"],
     color: C.cyan, emoji: "⚡",
-    funFact: "Has read more arXiv papers this year than fiction novels in her entire life.",
+    funFact: "Believes every real-world problem has an AI solution waiting to be discovered.",
     role: "// DataExplorer.connect()",
   },
   {
